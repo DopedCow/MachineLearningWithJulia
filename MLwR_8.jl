@@ -8,3 +8,5 @@
 
 # Setup --------------------------------------------------------------------
 include("ARules/src/ARules.jl")
+
+ARules.ap_genrules!()
