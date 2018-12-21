@@ -47,3 +47,7 @@ plot(insurance, x = :expenses, Geom.histogram(bincount = 13))
 FreqTables.freqtable(insurance, :region)
 
 Statistics.cor(convert(Array, insurance[[:age, :bmi, :children, :expenses]]))
+
+names(insurance)
+
+showcols(insurance)
