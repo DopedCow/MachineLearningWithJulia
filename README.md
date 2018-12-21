@@ -1,7 +1,7 @@
 # MachineLearningWithR
 Julia implementation of the R code from Machine Learning with R
 
-$$y = α + βx$$
+\\[y = α + βx\\]
 
 $$∑(y_i - \hat{y}_i)^2 = ∑e_i^2$$
 
